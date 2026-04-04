@@ -1,4 +1,4 @@
 Welcome! 
 
-코딩 소스를 공유 
+코딩한 소스 코드를 공유 패들렛
 https://padlet.com/yoohjgood/ai-2026-3-q6238yxuj4mmqlw2
