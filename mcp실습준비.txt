@@ -1,0 +1,20 @@
+1. 클로드PC버전 -> https://claude.ai/download
+2. 서버기능설정 -> https://nodejs.org/ko
+3. MCP설정코드제공 -> https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem
+
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\사용자이름\\Desktop",
+        "C:\\Users\\사용자이름\\Documents\\Projects"
+      ]
+    }
+  }
+}
+
+
+4. 코드편집 -> https://code.visualstudio.com/  -> VSCode 프로그램
