@@ -2,11 +2,9 @@
 
 >> 강의 자료 공유 <br>
 https://naver.me/GO6KRqE8
+<br>
 
 <br>
 >> 학습 활동을 위한 실습 워크북 <br>
 https://docs.google.com/document/d/1y-Aq2IQgP7cceH-45BVYG7HyA7svPm1gsR6EIsdlOtg/edit?usp=sharing
-
-<br>
->> 프로젝트 수행 공유 <br>
 
